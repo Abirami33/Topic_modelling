@@ -83,7 +83,7 @@ ldamodel = Lda(doc_term_matrix, num_topics=2, id2word = dictionary, passes=50)
 #Mapping from word IDs to words. It is used to determine the vocabulary size, as well as for debugging and topic printing.
 
 print("\n")
-print("POSSIBLE TOPICS INFERED FROM EACH LINE:")
+print("POSSIBLE TOPICS INFERRED FROM GIVEN PARAGRAPH:")
 print("\n")
 result=ldamodel.print_topics(num_topics=2, num_words=3)
 #print(result)
