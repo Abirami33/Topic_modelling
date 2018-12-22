@@ -18,7 +18,7 @@ PROCESS DONE:
 
 news_analysis_LDA folder:
 
-(contains code file,output screenshot)
+(contains input paragraph from news,code file,output screenshot)
 
 PROCESS DONE:
 
