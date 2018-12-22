@@ -1,11 +1,11 @@
 # Topic_modelling
 Topic modelling analysis and learning [ SEMANTIC ANALYSIS ]
 
-news_analysis_manual folder:
+**news_analysis_manual folder:**
 
 (contains the code file,output screenshot,output graph)
 
-PROCESS DONE:
+*PROCESS DONE:*
 
 1) Manually collected headlines from 3 top newspapers dated DEC 21
 2) Manually mapped those headlines to it's respective domains
@@ -16,11 +16,11 @@ PROCESS DONE:
 7) plotted a pie chart so that we can came to know the Top domains in news
 
 
-news_analysis_LDA folder:
+**news_analysis_LDA folder:**
 
 (contains input paragraph from news,code file,output screenshot)
 
-PROCESS DONE:
+*PROCESS DONE:*
 
 1) Taken a paragraph from the TIMES OF INDIA Dated Dec 22
 2) Split those as seperate sentences and compiled
