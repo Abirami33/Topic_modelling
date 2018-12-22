@@ -29,5 +29,5 @@ PROCESS DONE:
 5) Then cleaned document is converted as a dictionary by genism's corpora
 6) Then Document matrix is calculated from that dictionary
 7) Possible document-topic density and topic-word density is the result
-   --> Document-topic density means possible topics in a document
-   --> Topic-word density means possible words in that topic
+   * Document-topic density means possible topics in a document
+   * Topic-word density means possible words in that topic
