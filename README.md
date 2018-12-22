@@ -16,7 +16,7 @@ PROCESS DONE:
 7) plotted a pie chart so that we can came to know the Top domains in news
 
 
-news_analysis_Lda folder:
+news_analysis_LDA folder:
 
 (contains code file,output screenshot)
 
